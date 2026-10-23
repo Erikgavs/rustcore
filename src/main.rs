@@ -1,3 +1,5 @@
+mod vga_buffer;
+
 #![no_std] // no_std -> Build without Rust's standard library.
 #![no_main] // no_main -> Use a custom entry point.
 
